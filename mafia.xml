@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<clan>
+  <name>Corleone</name>
+  <type>&lt;mafia&gt;</type>
+  <members>
+    <!-- 第1代教父 -->
+    <person>
+      <name>Vito Corleone</name>
+      <sex>male</sex>			
+    </person>
+
+    <!-- 第2代教父 -->
+    <person>
+      <name>Michael Corleone</name>
+      <sex>male</sex>			
+    </person>
+
+    <!-- 第3代教父 -->
+    <person>
+      <name oldLastName="Mancini">Vincenzo Corleone</name>
+      <sex>male</sex>			
+    </person>
+  </members>
+</clan>
